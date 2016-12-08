@@ -1,4 +1,4 @@
-Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
+ Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
 
 | English                                     | Toki pona                                                                                                                                                                                            |
 |---------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Sample phrases from http://www.omniglot.com/language/phrases/tokipona.htm --
 | Goodbye (staying)                           | :runner: :smile:                                                                                                                                                                                     |
 | Good luck                                   | :wave: :smile:                                                                                                                                                                                       |
 | Cheers                                      | :stuck_out_tongue_winking_eye: :smile:                                                                                                                                                               |
-| Have a nice day                             | :sparkling_heart: :smile:                                                                                                                                                                            |
+| Have a nice day                             | :hourglass: :sun_with_face: :raised_hands: :wave: :smile: :runner: :point_right: |
 | Bon appetit                                 | :stew: :smile:                                                                                                                                                                                       |
 | I don't understand                          | :point_left: :dragon_face: :no_good:                                                                                                                                                       |
 | Please speak more slowly                    | :wave: :speech_balloon: :closed_umbrella: :hourglass: :city_sunset:                                                                                                                                  |
